@@ -1,0 +1,11 @@
+# pseudocode for the following problem
+## display student information
+start
+declare stiudent name as string
+declare student age as integer
+declare student grade as character
+deaclare percantage as real 
+set student name ="yogi"
+set student age=12
+set student grade as='A'
+set student percantage =88
