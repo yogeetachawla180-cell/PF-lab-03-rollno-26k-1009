@@ -4,11 +4,12 @@ roll number is 26k-1009
 introduction to github and c programming language
 hello! my name is yogeeta chawla i completed my higher secondary education from girl degree college 
 In this lab we get to know that how to use github what is readme.md file ,push command , commit and add e.t.c 
-the topics covered in this lab are DATATYPE in C, VARIABLES in C ,format specifier and precision setting in C
+the topics covered in this lab are:
++DATATYPE in C,  *VARIABLES in C ,+format -specifier , + precision setting in C
 # my first C code
 this code is for get students information
 ##quote
->"learning never stops."
+> "learning never stops."
 to compile the program, use 'DEVC++'.
 ##completed task
 -[x]create the C program
