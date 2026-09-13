@@ -29,3 +29,13 @@
 | putch() | display one character |
 | puts() | displays a string and automatically moves to next line |
 | fgets() | read a whole line string including spaces |
+
+# escape sequences
+| escape sequences | meaning | examples |
+|--- | --- | --- |
+| \n | new line | printf("hello\nworld"); |
+| \t | tab/space |printf("hello\tworld"); |
+| \\ | print a backslash\ | printf("hello\\world"); |
+| \b | backspace | printf("hello\b world"); |
+| \" | print double quotationmark" | printf("\"hello\""); |
+
