@@ -13,8 +13,9 @@ the topics covered in this lab are:
 this code is for get students information
 ## quote
 > "learning never stops."
+## inline code
 to compile the program, use 'DEVC++'.
 ## completed task
-- [x]create the C program
+- [x] create the C program
 - [x] test the program
 - [x] upload the project to github
