@@ -12,7 +12,7 @@
 | FORMAT SPECIFIER | USED FOR | EXAMPLE |
 | --- | --- | --- |
 | %d | signed decimal integer | printf("%d",25); |
-| %f | floating-point number | printf("%f", 25); |
+| %f | floating-point number | printf("%f", 25); | 
 | %u | unsigned decimal integer |printf("%u",25); |
 | %o | octal integer | printf("%o",25); |
 | %x | hexadecimal integer (lowercase) | printf("%x", 25); |
