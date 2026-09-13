@@ -9,3 +9,23 @@ set student name ="yogi"
 set student age=12
 set student grade as='A'
 set student percantage =88
+display "student name:",student name
+display "age:", student age
+display"grade:", student grade
+display "percantage:",student percantage
+END
+## read and display character using getchar() and putchar().
+start
+declare ch as character
+display"enter a character:"
+get character ch 
+put character ch
+END
+## display a floating-point value using different percision settings
+start
+declare num as float
+set num=123.456789
+display num with 2 decimal places
+display num with 4 decimal places
+display num with 6 decimal places
+END 
