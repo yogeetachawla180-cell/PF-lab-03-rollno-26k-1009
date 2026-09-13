@@ -11,10 +11,10 @@ the topics covered in this lab are:
 * precision setting in C
 # my first C code
 this code is for get students information
-##quote
+## quote
 > "learning never stops."
 to compile the program, use 'DEVC++'.
-##completed task
--[x]create the C program
--[x] test the program
--[x] upload the project to github
+## completed task
+- [x]create the C program
+- [x] test the program
+- [x] upload the project to github
